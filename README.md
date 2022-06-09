@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é @LauraEstudante
+- Meu email de contato é: lauracoco49@gmail.com  
+- 👀 Eu estou interessada em aprender a programar novas linguagens, e estou aprendendo a programar as linguagens de JavaScript e Scratch 
